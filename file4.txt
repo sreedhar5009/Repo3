@@ -1,0 +1,14 @@
+third file created
+by sree
+thanks
+
+this is inserted with vi command
+after coping from file 3
+	
+	just to 	check tabs here
+
+done
+:wq!
+
+another change
+rikki school
